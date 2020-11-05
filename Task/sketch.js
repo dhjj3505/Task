@@ -45,6 +45,9 @@ function draw() {
         addRain()
     }
 
+     fill(0,0,0);
+    textSize(20);
+    text("Ari", windowWidth/2 -500, 590);
 }
 
 
