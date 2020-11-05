@@ -44,10 +44,6 @@ function draw() {
    if(frameCount%500 == 0){
         addRain()
     }
-
-    fill(0,0,0);
-    textSize(20);
-    text("Ari", windowWidth/2, 590);
 }
 
 
