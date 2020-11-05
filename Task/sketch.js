@@ -44,6 +44,11 @@ function draw() {
    if(frameCount%500 == 0){
         addRain()
     }
+  
+     textSize(15);
+    textAlign(CENTER);
+    fill(0, 0, 0);
+    text("@Ari", windowWidth/60 , windowHeight/1.57 );
 }
 
 
